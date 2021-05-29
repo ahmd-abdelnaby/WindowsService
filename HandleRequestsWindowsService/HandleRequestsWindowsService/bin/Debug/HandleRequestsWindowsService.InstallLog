@@ -1,0 +1,13 @@
+﻿Installing assembly 'F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\bin\Debug\HandleRequestsWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\bin\Debug\HandleRequestsWindowsService.InstallLog
+   assemblypath = F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\bin\Debug\HandleRequestsWindowsService.exe
+Installing service RequestHandlerService...
+Service RequestHandlerService has been successfully installed.
+Creating EventLog source RequestHandlerService in log Application...
+Committing assembly 'F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\bin\Debug\HandleRequestsWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\bin\Debug\HandleRequestsWindowsService.InstallLog
+   assemblypath = F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\bin\Debug\HandleRequestsWindowsService.exe

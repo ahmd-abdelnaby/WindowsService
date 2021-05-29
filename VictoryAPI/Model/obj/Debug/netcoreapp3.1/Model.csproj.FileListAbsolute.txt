@@ -1,0 +1,11 @@
+F:\Study\VictoryAPI\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+F:\Study\VictoryAPI\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+F:\Study\VictoryAPI\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+F:\Study\VictoryAPI\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+F:\Study\VictoryAPI\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.json
+F:\Study\VictoryAPI\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.dev.json
+F:\Study\VictoryAPI\Model\bin\Debug\netcoreapp3.1\Model.dll
+F:\Study\VictoryAPI\Model\bin\Debug\netcoreapp3.1\Model.pdb
+F:\Study\VictoryAPI\Model\obj\Debug\netcoreapp3.1\Model.dll
+F:\Study\VictoryAPI\Model\obj\Debug\netcoreapp3.1\Model.pdb
+F:\Study\VictoryAPI\Model\obj\Debug\netcoreapp3.1\Model.genruntimeconfig.cache

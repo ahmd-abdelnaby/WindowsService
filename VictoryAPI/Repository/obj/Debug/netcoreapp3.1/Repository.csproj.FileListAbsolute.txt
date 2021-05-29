@@ -1,0 +1,15 @@
+F:\Study\VictoryAPI\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+F:\Study\VictoryAPI\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+F:\Study\VictoryAPI\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+F:\Study\VictoryAPI\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+F:\Study\VictoryAPI\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+F:\Study\VictoryAPI\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.json
+F:\Study\VictoryAPI\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.dev.json
+F:\Study\VictoryAPI\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+F:\Study\VictoryAPI\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+F:\Study\VictoryAPI\Repository\bin\Debug\netcoreapp3.1\Model.dll
+F:\Study\VictoryAPI\Repository\bin\Debug\netcoreapp3.1\Model.pdb
+F:\Study\VictoryAPI\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+F:\Study\VictoryAPI\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+F:\Study\VictoryAPI\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+F:\Study\VictoryAPI\Repository\obj\Debug\netcoreapp3.1\Repository.genruntimeconfig.cache

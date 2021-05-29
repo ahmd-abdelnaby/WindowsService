@@ -1,0 +1,14 @@
+F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\bin\Debug\HandleRequestsWindowsService.exe.config
+F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\bin\Debug\HandleRequestsWindowsService.exe
+F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\bin\Debug\HandleRequestsWindowsService.pdb
+F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\obj\Debug\HandleRequestsWindowsService.ProjectInstaller.resources
+F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\obj\Debug\HandleRequestsWindowsService.csproj.GenerateResource.cache
+F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\obj\Debug\HandleRequestsWindowsService.csproj.CoreCompileInputs.cache
+F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\obj\Debug\HandleRequestsWindowsService.exe
+F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\obj\Debug\HandleRequestsWindowsService.pdb
+F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\bin\Debug\LumenWorks.Framework.IO.dll
+F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\bin\Debug\LumenWorks.Framework.IO.pdb
+F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\bin\Debug\LumenWorks.Framework.IO.xml
+F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\obj\Debug\HandleRequestsWindowsService.csproj.CopyComplete
+F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\bin\Debug\Newtonsoft.Json.dll
+F:\Study\HandleRequestsWindowsService\HandleRequestsWindowsService\bin\Debug\Newtonsoft.Json.xml
